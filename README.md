@@ -28,3 +28,9 @@ To use anywhere door(teleportation),
 1) Click on the Space key and the anywhere door pops out
 2) Used w,a,s,d to move the door
 3) Once the door is in the right place, click space again to teleport
+
+https://github.com/user-attachments/assets/24f319ed-2af8-45de-9044-8ab27d2e31a0
+
+
+
+
